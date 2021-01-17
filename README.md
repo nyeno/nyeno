@@ -1,4 +1,4 @@
-![Welcome](./me.jpg)
+![Welcome](me.png)
 
 # Who am I
 
