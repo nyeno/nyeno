@@ -1,4 +1,4 @@
-![Welcome](me.png)
+![Welcome](code.jpg)
 
 # Who am I
 
