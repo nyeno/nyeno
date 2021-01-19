@@ -2,7 +2,7 @@
 
 # Who am I
 
-I am Laura and sometimes, I call myself taeyang which is Korean for "the sun". I am a student, a web developer and a data analyst. I am a dreamer too, I believe in dreams. Uhmm, I am also a teacher, I really enjoyed teaching people the things I know. I love when my knowledge helps someone, makes their life easier or maybe just makes their code run. I am always seeking to learn something new especially in tech. Welcome to my github page.
+I am Laura and sometimes, I call myself taeyang which is Korean for "the sun". I am a student, a web developer and a data analyst. I am a dreamer too, I believe in dreams. Uhmm, I am also a teacher, I really enjoy teaching people the things I know. I love when my knowledge helps someone, makes their life easier or maybe just makes their code run. I am always seeking to learn something new especially in tech. Welcome to my github page.
 
 ## Welcome! 👋
 
