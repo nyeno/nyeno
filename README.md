@@ -25,5 +25,5 @@ Here is my mail: enonyenooke@gmail.com
 
 You are on the right path in your coding journey. It might be tasking and sometimes frustrating but it can also be immensely rewarding. I hope you keep coding and just generally doing the things you love. X
 
-![Visitor Count](https://profile-counter.glitch.me/nyeno/count.svg)
+
 
