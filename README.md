@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [.trace](https://tracebynyenooke.netlify.app)
 
-- 🌱 I’m currently learning **Django and AI**
+- 🌱 I’m currently learning **Micro frontends**
 
 - 👯 I’m looking to collaborate on **All future projects**
 
