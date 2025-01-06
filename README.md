@@ -3,17 +3,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nyeno" alt="nyeno"  /></a> </p>
 
-- 🔭 I’m currently working on [.trace](https://tracebynyenooke.netlify.app)
+- 🔭 I’m currently working in grad school at the University of Waterloo
 
-- 🌱 I’m currently learning **Micro frontends**
+- 🌱 I’m currently learning about **Machine Learning** and **Programming Languages**
 
-- 👯 I’m looking to collaborate on **All future projects**
+- 👯 I’m looking to collaborate on **ml projects and projects around building tools for software developers**
 
-- 👨‍💻 All of my projects are available at [https://nyeno.github.io/Portfolio/](https://nyeno.github.io/Portfolio/)
+- 👨‍💻 Some of my projects are available at [https://nyeno.github.io/Portfolio/](https://nyeno.github.io/Portfolio/)
 
-- 💬 Ask me about **React, JavaScript, TailwindCSS**
+- 💬 Ask me about **React, JavaScript, TailwindCSS, ML, Programming languages**
 
-- 📫 How to reach me **enonyenooke@gmail.com**
+- 📫 How to reach me **nyenooke@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1ER447hbBKxYDYPl_etHR434RrFKLwczN/view](https://drive.google.com/file/d/1ER447hbBKxYDYPl_etHR434RrFKLwczN/view)
 
