@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nyeno" alt="nyeno"  /></a> </p>
 
-- 🔭 I’m currently working in grad school at the University of Waterloo
+- 🔭 I’m currently in grad school at the University of Waterloo
 
 - 🌱 I’m currently learning about **Machine Learning** and **Programming Languages**
 
